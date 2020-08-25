@@ -1,4 +1,7 @@
-Run inferno.sh on osx/linux hosts
+![arch](https://github.com/metacoma/9p-grid-http/blob/master/arch.png?raw=true)
+
+
+# Run inferno.sh on osx/linux hosts
 ```
 inferno.sh - starts inferno-os inside docker container
 ```
